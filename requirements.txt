@@ -1,0 +1,9 @@
+
+---
+
+## 📦 Requirements
+streamlit
+openai
+pandas
+xlsxwriter
+openpyxl
